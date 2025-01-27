@@ -5,7 +5,7 @@ Welcome to my repository showcasing various cybersecurity-related projects compl
 
 ## Table of Contents
 
-1. [Caesar Cipher Implementation](#https://github.com/Husna426/Cybersecurity-Internship/blob/main/Caesar%20Cipher.ipynb)
+1. [Caesar Cipher Implementation](#caesar-cipher-implementation)
 2. [Pixel Manipulation for Image Encryption](#pixel-manipulation-for-image-encryption)
 3. [Password Strength Assessment Tool](#password-strength-assessment-tool)
 4. [Keylogger Program](#keylogger-program)
@@ -13,7 +13,7 @@ Welcome to my repository showcasing various cybersecurity-related projects compl
 
 ---
 
-### Caesar Cipher Implementation
+### [Caesar Cipher Implementation](https://github.com/Husna426/Cybersecurity-Internship/blob/main/Caesar%20Cipher.ipynb)
 
 This Python program implements the Caesar Cipher algorithm to encrypt and decrypt text messages.
 
@@ -37,7 +37,7 @@ Encrypted: "Khoor, Zruog!"
 
 ---
 
-### Pixel Manipulation for Image Encryption
+### [Pixel Manipulation for Image Encryption](https://github.com/Husna426/Cybersecurity-Internship/blob/main/Pixel%20Manipulation%20for%20Image%20Encryption.ipynb)
 
 This project involves creating a tool that encrypts and decrypts images using pixel manipulation techniques.
 
@@ -54,7 +54,7 @@ This project involves creating a tool that encrypts and decrypts images using pi
 
 ---
 
-### Password Strength Assessment Tool
+###[Password Strength Assessment Tool](https://github.com/Husna426/Cybersecurity-Internship/blob/main/Password%20Complexity%20Checker.ipynb)
 
 This tool assesses the strength of passwords based on predefined criteria and provides feedback to improve password security.
 
@@ -74,7 +74,7 @@ Feedback: Great password! Consider using a longer one for added security.
 
 ---
 
-### Keylogger Program
+###[Keylogger Program](https://github.com/Husna426/Cybersecurity-Internship/blob/main/keylogger.ipynb)
 
 This basic keylogger records and logs keystrokes for ethical and educational purposes only.
 
@@ -88,7 +88,7 @@ This basic keylogger records and logs keystrokes for ethical and educational pur
 
 ---
 
-### Packet Sniffer Tool
+###[Packet Sniffer Tool](Network Packet Analyzer.ipynb)
 
 This project involves developing a packet sniffer tool to capture and analyze network packets.
 
@@ -111,9 +111,6 @@ These projects are developed with ethical guidelines and are intended for educat
 
 ## Contributions
 Contributions, suggestions, and feedback are welcome! Feel free to submit a pull request or open an issue.
-
-## License
-This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
