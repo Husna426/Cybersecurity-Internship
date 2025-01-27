@@ -88,7 +88,7 @@ This basic keylogger records and logs keystrokes for ethical and educational pur
 
 ---
 
-###[Packet Sniffer Tool](Network Packet Analyzer.ipynb)
+### [Packet Sniffer Tool](https://github.com/Husna426/Cybersecurity-Internship/blob/main/Network%20Packet%20Analyzer.ipynb)
 
 This project involves developing a packet sniffer tool to capture and analyze network packets.
 
