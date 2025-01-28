@@ -54,7 +54,7 @@ This project involves creating a tool that encrypts and decrypts images using pi
 
 ---
 
-###[Password Strength Assessment Tool](https://github.com/Husna426/Cybersecurity-Internship/blob/main/Password%20Complexity%20Checker.ipynb)
+### [Password Strength Assessment Tool](https://github.com/Husna426/Cybersecurity-Internship/blob/main/Password%20Complexity%20Checker.ipynb)
 
 This tool assesses the strength of passwords based on predefined criteria and provides feedback to improve password security.
 
@@ -74,7 +74,7 @@ Feedback: Great password! Consider using a longer one for added security.
 
 ---
 
-###[Keylogger Program](https://github.com/Husna426/Cybersecurity-Internship/blob/main/keylogger.ipynb)
+### [Keylogger Program] (https://github.com/Husna426/Cybersecurity-Internship/blob/main/keylogger.ipynb)
 
 This basic keylogger records and logs keystrokes for ethical and educational purposes only.
 
